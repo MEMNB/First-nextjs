@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import "./Navbar.css";
 
+
 export default function Navbar() {
     return (
         <nav className='navbar py-10'>
